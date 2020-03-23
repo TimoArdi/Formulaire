@@ -6,9 +6,6 @@
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
 </head>
-<?php
-echo  $_POST['user_name'];
-?>
 
 <form  action="thanks.php"  method="post">
     <div>
